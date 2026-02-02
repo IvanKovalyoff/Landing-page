@@ -34,15 +34,16 @@ The project was initially bootstrapped using a gulp-based setup.
 - **CSS3** — layout, flexbox, responsive design
 - **JavaScript** — basic interactivity *(if applicable)*
 - **GitHub Pages** — deployment
+- **npm** — used for managing development dependencies and build tools
 
 ---
 
 ## 🧩 Key Features
 
-✔ Fully responsive design (mobile / tablet / desktop)
-✔ Clean and readable code structure
-✔ Modern, minimalistic UI
-✔ Cross-browser compatibility
+- Fully responsive design (mobile / tablet / desktop)
+- Clean and readable code structure
+- Modern, minimalistic UI
+- Cross-browser compatibility
 
 ---
 
