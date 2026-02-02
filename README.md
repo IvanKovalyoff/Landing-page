@@ -13,6 +13,8 @@ It demonstrates my ability to build clean, structured, and visually appealing in
 
 The landing page presents a **futuristic wireless speaker** and focuses on layout, responsiveness, and modern UI practices.
 
+The project was initially bootstrapped using a gulp-based setup.
+
 ---
 
 ## 🎯 What This Project Demonstrates
