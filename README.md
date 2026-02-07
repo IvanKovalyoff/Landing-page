@@ -72,6 +72,7 @@ Open index.html in your browser or use Live Server in VS Code.
 
   Ivan Kovalyoff
    - GitHub: https://github.com/IvanKovalyoff
+   - LinkedIn: www.linkedin.com/in/ivan-kovalov-197759348
 
 ---
 
